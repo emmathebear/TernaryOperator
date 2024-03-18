@@ -7,7 +7,7 @@ public class Main {
     }
 
     private static String checkValue(int value) {
-        return  value % 5 == 0 ?"FizzBuzz" : "Buzz";
+        return value % 5 == 0 ? "FizzBuzz" : "Buzz";
     }
 
 
